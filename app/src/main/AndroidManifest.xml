@@ -23,9 +23,6 @@
 
         </activity>
         <activity
-            android:name=".tuan41.Tuan41MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".slot6.Demo6MainActivity"
             android:exported="true" >
             <intent-filter>
